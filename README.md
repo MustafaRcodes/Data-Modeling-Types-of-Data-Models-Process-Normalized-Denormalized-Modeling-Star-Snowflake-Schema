@@ -1,7 +1,8 @@
 # Data-Modeling-Types-of-Data-Models-Process-Normalized-Denormalized-Modeling-Star-Snowflake-Schema
 Data Model from one of my PowerBI project 
 
-<img width="568" alt="Screenshot 2024-09-05 122738" src="https://github.com/user-attachments/assets/8643e945-ecb3-47d7-b9a3-291cffd78780">
+<img width="796" alt="Screenshot 2024-09-14 132154" src="https://github.com/user-attachments/assets/8e1609ec-c05e-4df9-b32a-ccc2086b381f">
+
 
 
 My Report on Data Modeling Types of Data Models, Data Modeling Process, Normalized & Denormalized Modeling, Star & Snowflake Schema
